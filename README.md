@@ -4,7 +4,7 @@ It may not be a grand homepage, but it is my **home**page. Welcome **home**.
 ![](https://www-assets.kolide.com/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTYwMzEwLCJwdXIiOiJibG9iX2lkIn19--df85c15ea540b207ed7f2fe0fe71fa39cb6ba62c/github-burned-out-engineer.png)
 
 # 🌈 homeworkace is proudly fueled by 🌈
-![](https://c.tenor.com/LWIsUHyLmUYAAAAC/tenor.gif)
+![](https://attachments-cdn-s.coub.com/coub_storage/coub/simple/cw_image/6f66b8f55da/2a6042a632c0744d1e9fe/1448960136_00030.jpg)
 
 <!--
 **homeworkace/homeworkace** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
