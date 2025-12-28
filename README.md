@@ -1,4 +1,10 @@
-## Hi there 👋
+It may not be a grand homepage, but it is my **home**page. Welcome **home**.
+
+# ✨ Current CS student and aspiring carpenter ✨
+https://github.com/docker/cli/issues/267#issuecomment-695149477
+
+# 🌈 homeworkace is proudly fueled by 🌈
+![](https://attachments-cdn-s.coub.com/coub_storage/coub/simple/cw_image/6f66b8f55da/2a6042a632c0744d1e9fe/1448960136_00030.jpg)
 
 <!--
 **homeworkace/homeworkace** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
